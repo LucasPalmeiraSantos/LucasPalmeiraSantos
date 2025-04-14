@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasPalmeiraSantos
 - 👀 I’m interested in Jobs
-- 🌱 I’m currently learning Flutter, Dart, POO
+- 🌱 I’m currently learning Data Science with Python, SQL, NoSQL, Data Visualization and Data Governance
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me lucas.palmeira.santos@gmail.com
 
